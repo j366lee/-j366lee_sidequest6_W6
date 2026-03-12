@@ -152,8 +152,8 @@
     "anims": {
       "idle": {
         "row": 0,
-        "frames": 5,
-        "frameDelay": 6
+        "frames": 6,
+        "frameDelay": 3
       }
     },
 
