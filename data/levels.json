@@ -51,8 +51,8 @@
 
       "overrides": {
         "hud": {
-          "rescueLabel": "RESCUED",
-          "winScoreLabel": "RESCUED %d/%d"
+          "rescueLabel": "EATEN",
+          "winScoreLabel": "EATEN %d/%d"
         }
       }
     }

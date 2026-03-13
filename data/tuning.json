@@ -62,13 +62,13 @@
       },
       "hurtPose": {
         "row": 5,
-        "frames": 4,
+        "frames": 2,
         "hold": true,
         "frame": 1
       },
       "death": {
         "row": 5,
-        "frames": 4,
+        "frames": 1,
         "frameDelay": 16
       }
     }
